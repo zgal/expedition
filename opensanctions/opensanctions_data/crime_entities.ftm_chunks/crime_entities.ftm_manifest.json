@@ -1,0 +1,33 @@
+{
+  "source": "opensanctions_data/crime_entities.ftm.csv",
+  "format": "csv",
+  "target_size": "25.0 MB",
+  "total_records": 512854,
+  "total_chunks": 4,
+  "chunks": [
+    {
+      "index": 1,
+      "file": "crime_entities.ftm_chunk_0001.csv",
+      "size": "25.1 MB",
+      "bytes": 26363043
+    },
+    {
+      "index": 2,
+      "file": "crime_entities.ftm_chunk_0002.csv",
+      "size": "25.2 MB",
+      "bytes": 26375864
+    },
+    {
+      "index": 3,
+      "file": "crime_entities.ftm_chunk_0003.csv",
+      "size": "25.2 MB",
+      "bytes": 26383730
+    },
+    {
+      "index": 4,
+      "file": "crime_entities.ftm_chunk_0004.csv",
+      "size": "4.9 MB",
+      "bytes": 5166205
+    }
+  ]
+}
