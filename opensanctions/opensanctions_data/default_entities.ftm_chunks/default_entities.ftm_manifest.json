@@ -1,0 +1,621 @@
+{
+  "source": "opensanctions_data/default_entities.ftm.json",
+  "format": "jsonl",
+  "target_size": "25.0 MB",
+  "total_records": 4148395,
+  "total_chunks": 102,
+  "chunks": [
+    {
+      "index": 1,
+      "file": "default_entities_chunk_0001.json",
+      "size": "25.0 MB",
+      "bytes": 26214119
+    },
+    {
+      "index": 2,
+      "file": "default_entities_chunk_0002.json",
+      "size": "25.0 MB",
+      "bytes": 26214248
+    },
+    {
+      "index": 3,
+      "file": "default_entities_chunk_0003.json",
+      "size": "25.0 MB",
+      "bytes": 26213599
+    },
+    {
+      "index": 4,
+      "file": "default_entities_chunk_0004.json",
+      "size": "25.0 MB",
+      "bytes": 26214396
+    },
+    {
+      "index": 5,
+      "file": "default_entities_chunk_0005.json",
+      "size": "25.0 MB",
+      "bytes": 26213930
+    },
+    {
+      "index": 6,
+      "file": "default_entities_chunk_0006.json",
+      "size": "25.0 MB",
+      "bytes": 26210679
+    },
+    {
+      "index": 7,
+      "file": "default_entities_chunk_0007.json",
+      "size": "25.0 MB",
+      "bytes": 26214385
+    },
+    {
+      "index": 8,
+      "file": "default_entities_chunk_0008.json",
+      "size": "25.0 MB",
+      "bytes": 26214108
+    },
+    {
+      "index": 9,
+      "file": "default_entities_chunk_0009.json",
+      "size": "25.0 MB",
+      "bytes": 26213870
+    },
+    {
+      "index": 10,
+      "file": "default_entities_chunk_0010.json",
+      "size": "25.0 MB",
+      "bytes": 26213839
+    },
+    {
+      "index": 11,
+      "file": "default_entities_chunk_0011.json",
+      "size": "25.0 MB",
+      "bytes": 26213848
+    },
+    {
+      "index": 12,
+      "file": "default_entities_chunk_0012.json",
+      "size": "25.0 MB",
+      "bytes": 26214114
+    },
+    {
+      "index": 13,
+      "file": "default_entities_chunk_0013.json",
+      "size": "25.0 MB",
+      "bytes": 26214086
+    },
+    {
+      "index": 14,
+      "file": "default_entities_chunk_0014.json",
+      "size": "25.0 MB",
+      "bytes": 26213796
+    },
+    {
+      "index": 15,
+      "file": "default_entities_chunk_0015.json",
+      "size": "25.0 MB",
+      "bytes": 26214122
+    },
+    {
+      "index": 16,
+      "file": "default_entities_chunk_0016.json",
+      "size": "25.0 MB",
+      "bytes": 26213937
+    },
+    {
+      "index": 17,
+      "file": "default_entities_chunk_0017.json",
+      "size": "25.0 MB",
+      "bytes": 26213763
+    },
+    {
+      "index": 18,
+      "file": "default_entities_chunk_0018.json",
+      "size": "25.0 MB",
+      "bytes": 26213571
+    },
+    {
+      "index": 19,
+      "file": "default_entities_chunk_0019.json",
+      "size": "25.0 MB",
+      "bytes": 26213731
+    },
+    {
+      "index": 20,
+      "file": "default_entities_chunk_0020.json",
+      "size": "25.0 MB",
+      "bytes": 26214309
+    },
+    {
+      "index": 21,
+      "file": "default_entities_chunk_0021.json",
+      "size": "25.0 MB",
+      "bytes": 26213957
+    },
+    {
+      "index": 22,
+      "file": "default_entities_chunk_0022.json",
+      "size": "25.0 MB",
+      "bytes": 26214319
+    },
+    {
+      "index": 23,
+      "file": "default_entities_chunk_0023.json",
+      "size": "25.0 MB",
+      "bytes": 26213684
+    },
+    {
+      "index": 24,
+      "file": "default_entities_chunk_0024.json",
+      "size": "25.0 MB",
+      "bytes": 26214248
+    },
+    {
+      "index": 25,
+      "file": "default_entities_chunk_0025.json",
+      "size": "25.0 MB",
+      "bytes": 26213357
+    },
+    {
+      "index": 26,
+      "file": "default_entities_chunk_0026.json",
+      "size": "25.0 MB",
+      "bytes": 26212803
+    },
+    {
+      "index": 27,
+      "file": "default_entities_chunk_0027.json",
+      "size": "25.0 MB",
+      "bytes": 26214052
+    },
+    {
+      "index": 28,
+      "file": "default_entities_chunk_0028.json",
+      "size": "25.0 MB",
+      "bytes": 26213398
+    },
+    {
+      "index": 29,
+      "file": "default_entities_chunk_0029.json",
+      "size": "25.0 MB",
+      "bytes": 26214214
+    },
+    {
+      "index": 30,
+      "file": "default_entities_chunk_0030.json",
+      "size": "25.0 MB",
+      "bytes": 26214319
+    },
+    {
+      "index": 31,
+      "file": "default_entities_chunk_0031.json",
+      "size": "25.0 MB",
+      "bytes": 26214301
+    },
+    {
+      "index": 32,
+      "file": "default_entities_chunk_0032.json",
+      "size": "25.0 MB",
+      "bytes": 26214196
+    },
+    {
+      "index": 33,
+      "file": "default_entities_chunk_0033.json",
+      "size": "25.0 MB",
+      "bytes": 26214349
+    },
+    {
+      "index": 34,
+      "file": "default_entities_chunk_0034.json",
+      "size": "25.0 MB",
+      "bytes": 26214029
+    },
+    {
+      "index": 35,
+      "file": "default_entities_chunk_0035.json",
+      "size": "25.0 MB",
+      "bytes": 26213877
+    },
+    {
+      "index": 36,
+      "file": "default_entities_chunk_0036.json",
+      "size": "25.0 MB",
+      "bytes": 26214327
+    },
+    {
+      "index": 37,
+      "file": "default_entities_chunk_0037.json",
+      "size": "25.0 MB",
+      "bytes": 26214389
+    },
+    {
+      "index": 38,
+      "file": "default_entities_chunk_0038.json",
+      "size": "25.0 MB",
+      "bytes": 26214052
+    },
+    {
+      "index": 39,
+      "file": "default_entities_chunk_0039.json",
+      "size": "25.0 MB",
+      "bytes": 26214332
+    },
+    {
+      "index": 40,
+      "file": "default_entities_chunk_0040.json",
+      "size": "25.0 MB",
+      "bytes": 26213979
+    },
+    {
+      "index": 41,
+      "file": "default_entities_chunk_0041.json",
+      "size": "25.0 MB",
+      "bytes": 26214291
+    },
+    {
+      "index": 42,
+      "file": "default_entities_chunk_0042.json",
+      "size": "25.0 MB",
+      "bytes": 26214311
+    },
+    {
+      "index": 43,
+      "file": "default_entities_chunk_0043.json",
+      "size": "25.0 MB",
+      "bytes": 26214132
+    },
+    {
+      "index": 44,
+      "file": "default_entities_chunk_0044.json",
+      "size": "25.0 MB",
+      "bytes": 26214390
+    },
+    {
+      "index": 45,
+      "file": "default_entities_chunk_0045.json",
+      "size": "25.0 MB",
+      "bytes": 26214008
+    },
+    {
+      "index": 46,
+      "file": "default_entities_chunk_0046.json",
+      "size": "25.0 MB",
+      "bytes": 26214011
+    },
+    {
+      "index": 47,
+      "file": "default_entities_chunk_0047.json",
+      "size": "25.0 MB",
+      "bytes": 26213862
+    },
+    {
+      "index": 48,
+      "file": "default_entities_chunk_0048.json",
+      "size": "25.0 MB",
+      "bytes": 26214274
+    },
+    {
+      "index": 49,
+      "file": "default_entities_chunk_0049.json",
+      "size": "25.0 MB",
+      "bytes": 26214341
+    },
+    {
+      "index": 50,
+      "file": "default_entities_chunk_0050.json",
+      "size": "25.0 MB",
+      "bytes": 26214334
+    },
+    {
+      "index": 51,
+      "file": "default_entities_chunk_0051.json",
+      "size": "25.0 MB",
+      "bytes": 26214225
+    },
+    {
+      "index": 52,
+      "file": "default_entities_chunk_0052.json",
+      "size": "25.0 MB",
+      "bytes": 26214130
+    },
+    {
+      "index": 53,
+      "file": "default_entities_chunk_0053.json",
+      "size": "25.0 MB",
+      "bytes": 26214070
+    },
+    {
+      "index": 54,
+      "file": "default_entities_chunk_0054.json",
+      "size": "25.0 MB",
+      "bytes": 26213950
+    },
+    {
+      "index": 55,
+      "file": "default_entities_chunk_0055.json",
+      "size": "25.0 MB",
+      "bytes": 26214312
+    },
+    {
+      "index": 56,
+      "file": "default_entities_chunk_0056.json",
+      "size": "25.0 MB",
+      "bytes": 26214043
+    },
+    {
+      "index": 57,
+      "file": "default_entities_chunk_0057.json",
+      "size": "25.0 MB",
+      "bytes": 26214223
+    },
+    {
+      "index": 58,
+      "file": "default_entities_chunk_0058.json",
+      "size": "25.0 MB",
+      "bytes": 26214149
+    },
+    {
+      "index": 59,
+      "file": "default_entities_chunk_0059.json",
+      "size": "25.0 MB",
+      "bytes": 26214309
+    },
+    {
+      "index": 60,
+      "file": "default_entities_chunk_0060.json",
+      "size": "25.0 MB",
+      "bytes": 26213746
+    },
+    {
+      "index": 61,
+      "file": "default_entities_chunk_0061.json",
+      "size": "25.0 MB",
+      "bytes": 26213486
+    },
+    {
+      "index": 62,
+      "file": "default_entities_chunk_0062.json",
+      "size": "25.0 MB",
+      "bytes": 26214205
+    },
+    {
+      "index": 63,
+      "file": "default_entities_chunk_0063.json",
+      "size": "25.0 MB",
+      "bytes": 26214211
+    },
+    {
+      "index": 64,
+      "file": "default_entities_chunk_0064.json",
+      "size": "25.0 MB",
+      "bytes": 26214127
+    },
+    {
+      "index": 65,
+      "file": "default_entities_chunk_0065.json",
+      "size": "25.0 MB",
+      "bytes": 26214131
+    },
+    {
+      "index": 66,
+      "file": "default_entities_chunk_0066.json",
+      "size": "25.0 MB",
+      "bytes": 26213955
+    },
+    {
+      "index": 67,
+      "file": "default_entities_chunk_0067.json",
+      "size": "25.0 MB",
+      "bytes": 26214103
+    },
+    {
+      "index": 68,
+      "file": "default_entities_chunk_0068.json",
+      "size": "25.0 MB",
+      "bytes": 26213812
+    },
+    {
+      "index": 69,
+      "file": "default_entities_chunk_0069.json",
+      "size": "25.0 MB",
+      "bytes": 26214282
+    },
+    {
+      "index": 70,
+      "file": "default_entities_chunk_0070.json",
+      "size": "25.0 MB",
+      "bytes": 26214000
+    },
+    {
+      "index": 71,
+      "file": "default_entities_chunk_0071.json",
+      "size": "25.0 MB",
+      "bytes": 26214010
+    },
+    {
+      "index": 72,
+      "file": "default_entities_chunk_0072.json",
+      "size": "25.0 MB",
+      "bytes": 26213654
+    },
+    {
+      "index": 73,
+      "file": "default_entities_chunk_0073.json",
+      "size": "25.0 MB",
+      "bytes": 26214152
+    },
+    {
+      "index": 74,
+      "file": "default_entities_chunk_0074.json",
+      "size": "25.0 MB",
+      "bytes": 26214256
+    },
+    {
+      "index": 75,
+      "file": "default_entities_chunk_0075.json",
+      "size": "25.0 MB",
+      "bytes": 26214195
+    },
+    {
+      "index": 76,
+      "file": "default_entities_chunk_0076.json",
+      "size": "25.0 MB",
+      "bytes": 26214276
+    },
+    {
+      "index": 77,
+      "file": "default_entities_chunk_0077.json",
+      "size": "25.0 MB",
+      "bytes": 26214148
+    },
+    {
+      "index": 78,
+      "file": "default_entities_chunk_0078.json",
+      "size": "25.0 MB",
+      "bytes": 26214350
+    },
+    {
+      "index": 79,
+      "file": "default_entities_chunk_0079.json",
+      "size": "25.0 MB",
+      "bytes": 26214175
+    },
+    {
+      "index": 80,
+      "file": "default_entities_chunk_0080.json",
+      "size": "25.0 MB",
+      "bytes": 26213261
+    },
+    {
+      "index": 81,
+      "file": "default_entities_chunk_0081.json",
+      "size": "25.0 MB",
+      "bytes": 26214208
+    },
+    {
+      "index": 82,
+      "file": "default_entities_chunk_0082.json",
+      "size": "25.0 MB",
+      "bytes": 26214274
+    },
+    {
+      "index": 83,
+      "file": "default_entities_chunk_0083.json",
+      "size": "25.0 MB",
+      "bytes": 26206927
+    },
+    {
+      "index": 84,
+      "file": "default_entities_chunk_0084.json",
+      "size": "25.0 MB",
+      "bytes": 26214330
+    },
+    {
+      "index": 85,
+      "file": "default_entities_chunk_0085.json",
+      "size": "25.0 MB",
+      "bytes": 26214197
+    },
+    {
+      "index": 86,
+      "file": "default_entities_chunk_0086.json",
+      "size": "25.0 MB",
+      "bytes": 26214203
+    },
+    {
+      "index": 87,
+      "file": "default_entities_chunk_0087.json",
+      "size": "25.0 MB",
+      "bytes": 26213871
+    },
+    {
+      "index": 88,
+      "file": "default_entities_chunk_0088.json",
+      "size": "25.0 MB",
+      "bytes": 26214026
+    },
+    {
+      "index": 89,
+      "file": "default_entities_chunk_0089.json",
+      "size": "25.0 MB",
+      "bytes": 26214238
+    },
+    {
+      "index": 90,
+      "file": "default_entities_chunk_0090.json",
+      "size": "25.0 MB",
+      "bytes": 26214377
+    },
+    {
+      "index": 91,
+      "file": "default_entities_chunk_0091.json",
+      "size": "25.0 MB",
+      "bytes": 26214035
+    },
+    {
+      "index": 92,
+      "file": "default_entities_chunk_0092.json",
+      "size": "25.0 MB",
+      "bytes": 26214398
+    },
+    {
+      "index": 93,
+      "file": "default_entities_chunk_0093.json",
+      "size": "25.0 MB",
+      "bytes": 26214232
+    },
+    {
+      "index": 94,
+      "file": "default_entities_chunk_0094.json",
+      "size": "25.0 MB",
+      "bytes": 26214374
+    },
+    {
+      "index": 95,
+      "file": "default_entities_chunk_0095.json",
+      "size": "25.0 MB",
+      "bytes": 26214310
+    },
+    {
+      "index": 96,
+      "file": "default_entities_chunk_0096.json",
+      "size": "25.0 MB",
+      "bytes": 26214381
+    },
+    {
+      "index": 97,
+      "file": "default_entities_chunk_0097.json",
+      "size": "25.0 MB",
+      "bytes": 26213619
+    },
+    {
+      "index": 98,
+      "file": "default_entities_chunk_0098.json",
+      "size": "25.0 MB",
+      "bytes": 26213462
+    },
+    {
+      "index": 99,
+      "file": "default_entities_chunk_0099.json",
+      "size": "25.0 MB",
+      "bytes": 26214313
+    },
+    {
+      "index": 100,
+      "file": "default_entities_chunk_0100.json",
+      "size": "25.0 MB",
+      "bytes": 26214101
+    },
+    {
+      "index": 101,
+      "file": "default_entities_chunk_0101.json",
+      "size": "25.0 MB",
+      "bytes": 26214224
+    },
+    {
+      "index": 102,
+      "file": "default_entities_chunk_0102.json",
+      "size": "17.5 MB",
+      "bytes": 18340066
+    }
+  ]
+}
