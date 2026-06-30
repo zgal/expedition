@@ -1,6 +1,10 @@
 python3 -m venv venv
 source venv/bin/activate
 pip install requests tqdm
+
+rm -r opensanctions_data
+git commit -m "remove opensanctions data 20260615"
+
 python opensanctions_bulk.py
 python chunk_files.py --input opensanctions_data/default_entities.ftm.json --size 25MB
 rm opensanctions_data/default_entities.ftm.json
